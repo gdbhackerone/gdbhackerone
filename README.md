@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">A developer passionate about technology.</h3>
+<h3 align="center">A full-time hacker passionate about breaking things.</h3>
 
 <p align="center"> 💼 Working on <a href="https://github.com/gdbhackerone/oscp">Offencive Security </a> </p> 
 <p align="center"> ⚡ Fun fact: check me out on telegram</p>
@@ -12,16 +12,16 @@
 <p align="center">
   <a href="https://t.me/GDB_HackerOne"><img alt="GDB HackerOne" src="https://t.me/GDB_HackerOne" /></a>
  </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="ryihan" /></h2>
-![](https://hit.yhype.me/github/profile?user_id=54474184)
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=GDB_HackerOne&label=Profile%20views&color=0e75b6&style=flat" alt="GDB_HackerOne" /></h2>
+![](![](https://hit.yhype.me/github/profile?user_id=96985351))
 <p align="center">
   <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
-    <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
+    <img align="center" src="https://github.com/GDB_HackerOne/GDB_HackerOne-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/ryihan_">
+  <a href="https://instagram.com/GDB_HackerOne_">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:ryihan55@gmail.com">
+  <a href="mailto:GDB_HackerOne55@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
   <a href="https://stackoverflow.com/users/13554586/growbing-development-inc">
@@ -76,35 +76,26 @@
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="ryihan" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=GDB_HackerOne&theme=dracula" alt="GDB_HackerOne" />
 </p>
 
 <h2>📊 Stats</h2>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryihan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GDB_HackerOne&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 
 <p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical" /></a>
+<a  href="https://github-readme-stats.vercel.app/api?username=GDB_HackerOne&count_private=true&show_icons=true&theme=radical"><img alt="GDB_HackerOne Activity Graph" src="https://github-readme-stats.vercel.app/api?username=GDB_HackerOne&count_private=true&show_icons=true&theme=radical" /></a>
   
 </p>
 
 
-<h2>⭐ Badges</h2>
+<h2>⭐ Intrested</h2>
 
 <p align="center">
   <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-professional-certificate.1"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/scrum-foundation-professional-certificate.1.png"  width="100" height="100"/>
   <a href="https://www.credly.com/earner/earned/badge/93bb1ef0-7d5d-4a0b-bd96-9b7b542c1677/"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/cybersecurity-essentials.png" alt="grafana" width="100" height="100"/>
   <a href="https://www.credly.com/badges/2a093b9f-925d-43d0-932f-ad1fca326901/public_url"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/networking-academy-learn-a-thon-2021.1.png" alt="wordpress" width="100" height="100"/>
 </p>
-
-<!--
-
-<p align="center"> If you consider buying me a coffee/tea 🥺👉👈 </p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/keikomori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</p>
-
- -->
