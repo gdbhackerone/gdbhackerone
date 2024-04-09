@@ -16,21 +16,18 @@
     margin-right: 12px;>
   <a href="https://t.me/GDB_HackerOne"><img src="https://cdn5.cdn-telegram.org/file/NipbLVCXrCL6iTgUjR1Ob6Pvj33VaILaMwhdBidfAzBr5XJeicfKKTGJn8pvYBbX8BrxdnO211iyi0p87YJ1vfTCOHqSFKiDFDio3XtRPSfcH0e7hu2gWNIGob3tpLbCFbM7kpNXDWe-qojlpgF0wF49SHoJimPl2N0L2BQPgBzCwV5I10zlzVZcvv4Sqey52BcF0hZj2goOyVK3WD01d9xpW-VjqbdYNiSJAbBN_Xa9S1pnrMIkM09WNt4wHbOdYj6Znh8vobESccAhf9URHzCMe2Q9JsYknfV1iii9UR9CrvtALN3AyrFRc9uMVMC-syERNJuc-6zNpsyBzXyaBQ.jpg"> </a>
   
- </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=GDB_HackerOne&label=Profile%20views&color=0e75b6&style=flat" alt="GDB_HackerOne" /></h2>
-![](![](https://hit.yhype.me/github/profile?user_id=96985351))
 <p align="center">
-  <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
+  <a href="https://www.linkedin.com/in/hublikar">
     <img align="center" src="https://github.com/GDB_HackerOne/GDB_HackerOne-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
   <a href="https://instagram.com/GDB_HackerOne_">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="instagram" />
   </a>
-  <a href="mailto:GDB_HackerOne55@gmail.com">
+  <a href="mailto:gdbhackerone@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
-  <a href="https://stackoverflow.com/users/13554586/growbing-development-inc">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
+  <a href="https://www.youtube.com/@RedBlueTM">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/YouTube/youtube.svg" alt="YouTube" />
   </a>
 </p>
 
