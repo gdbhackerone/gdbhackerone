@@ -9,16 +9,12 @@
 <p align="center"> ⚡ Fun fact: check my posts out on telegram</p>
 
 
-<p align="center"     
-    width: 72px;
-    height: 72px;
-    border-radius: 36px;
-    margin-right: 12px;>
+<p align="center" >
   <a href="https://t.me/GDB_HackerOne"><img src="https://cdn5.cdn-telegram.org/file/NipbLVCXrCL6iTgUjR1Ob6Pvj33VaILaMwhdBidfAzBr5XJeicfKKTGJn8pvYBbX8BrxdnO211iyi0p87YJ1vfTCOHqSFKiDFDio3XtRPSfcH0e7hu2gWNIGob3tpLbCFbM7kpNXDWe-qojlpgF0wF49SHoJimPl2N0L2BQPgBzCwV5I10zlzVZcvv4Sqey52BcF0hZj2goOyVK3WD01d9xpW-VjqbdYNiSJAbBN_Xa9S1pnrMIkM09WNt4wHbOdYj6Znh8vobESccAhf9URHzCMe2Q9JsYknfV1iii9UR9CrvtALN3AyrFRc9uMVMC-syERNJuc-6zNpsyBzXyaBQ.jpg"> </a>
   
 <p align="center">
   <a href="https://www.linkedin.com/in/hublikar">
-    <img align="center" src="https://github.com/GDB_HackerOne/GDB_HackerOne-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
   </a>
   </a>
   <a href="mailto:gdbhackerone@gmail.com">
