@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://t.me/GDB_HackerOne"><img alt="GDB HackerOne" src="<img src="https://cdn5.cdn-telegram.org/file/NipbLVCXrCL6iTgUjR1Ob6Pvj33VaILaMwhdBidfAzBr5XJeicfKKTGJn8pvYBbX8BrxdnO211iyi0p87YJ1vfTCOHqSFKiDFDio3XtRPSfcH0e7hu2gWNIGob3tpLbCFbM7kpNXDWe-qojlpgF0wF49SHoJimPl2N0L2BQPgBzCwV5I10zlzVZcvv4Sqey52BcF0hZj2goOyVK3WD01d9xpW-VjqbdYNiSJAbBN_Xa9S1pnrMIkM09WNt4wHbOdYj6Znh8vobESccAhf9URHzCMe2Q9JsYknfV1iii9UR9CrvtALN3AyrFRc9uMVMC-syERNJuc-6zNpsyBzXyaBQ.jpg">" /></a>
+  <a href="https://t.me/GDB_HackerOne"><img src="https://cdn5.cdn-telegram.org/file/NipbLVCXrCL6iTgUjR1Ob6Pvj33VaILaMwhdBidfAzBr5XJeicfKKTGJn8pvYBbX8BrxdnO211iyi0p87YJ1vfTCOHqSFKiDFDio3XtRPSfcH0e7hu2gWNIGob3tpLbCFbM7kpNXDWe-qojlpgF0wF49SHoJimPl2N0L2BQPgBzCwV5I10zlzVZcvv4Sqey52BcF0hZj2goOyVK3WD01d9xpW-VjqbdYNiSJAbBN_Xa9S1pnrMIkM09WNt4wHbOdYj6Znh8vobESccAhf9URHzCMe2Q9JsYknfV1iii9UR9CrvtALN3AyrFRc9uMVMC-syERNJuc-6zNpsyBzXyaBQ.jpg"> </a>
   
  </p>
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=GDB_HackerOne&label=Profile%20views&color=0e75b6&style=flat" alt="GDB_HackerOne" /></h2>
