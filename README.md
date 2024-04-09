@@ -20,8 +20,6 @@
   <a href="https://www.linkedin.com/in/hublikar">
     <img align="center" src="https://github.com/GDB_HackerOne/GDB_HackerOne-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/GDB_HackerOne_">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="instagram" />
   </a>
   <a href="mailto:gdbhackerone@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
