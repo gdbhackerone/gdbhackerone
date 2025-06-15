@@ -6,7 +6,7 @@
 <h3 align="center">A full-time Cybersecurity passionate about breaking things.</h3>
 
 <p align="center"> 💼 Working on <a href="https://github.com/gdbhackerone/oscp">Offencive Security </a> </p> 
-<p align="center"> ⚡ Fun fact: check my posts out on telegram</p> <a href="[https://github.com/gdbhackerone/oscp](https://t.me/gdbhackerone)">GDB_HackerOne</a>
+<p align="center"> ⚡ Fun fact: check my posts out on telegram</p> <a href="https://t.me/gdbhackerone">GDB_HackerOne</a>
 
 
 <p align="center" >
